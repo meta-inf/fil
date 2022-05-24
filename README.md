@@ -1,3 +1,5 @@
+https://arxiv.org/abs/2205.10772
+
 ## Usage
 
 The code is tested on Python 3.9, CUDA 11, CuDNN 8.2. To install the dependencies:
