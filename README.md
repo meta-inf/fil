@@ -4,7 +4,7 @@ https://arxiv.org/abs/2205.10772
 
 The code is tested on Python 3.9, CUDA 11, CuDNN 8.2. To install the dependencies:
 ```
-pip install -r requirements.txt -f https://storage.googleapis.com/jax-releases/jax_releases.html
+pip install -r requirements.txt -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
 ```
 
 `scripts` contains the scripts to reproduce the experiments. The usage is
